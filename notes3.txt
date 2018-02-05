@@ -1,0 +1,4 @@
+THREE INGREDIENTS TO RESPONSIVE WEBDESIGN
+1. Fluid grid: all layout elements are sized in relative units, such as percentages, instead of absolute unites like pixels.
+2. Flexible images: are also sized in reletive units.
+3. Media queries: allow us to specify different CSS style rules for different browser widths.
