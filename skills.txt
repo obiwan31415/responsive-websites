@@ -1,0 +1,15 @@
+Make the background image as high as browser viewport - height: 100vh
+Position header box against page width with translate -50% of element height and width for better responsivness.
+Making background picture darker with linear gradient linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7))
+Resize backgroung image with 'cover' attribute.
+How to position a box, e.g. horizontally and verticaly centered
+4 link states in CSS: link, hover, active, visited.
+"display: inline-block" element doesn't force linebreak but has padding and margin attributes
+Use :after pseudo class
+HTML symbols: https://www.w3schools.com/html/html_symbols.asp
+Use fluid grid 
+Center with margins margin: 0 auto;
+Use ul for each image line
+To have element side by side in the list use float: left;
+Darker image - put it in a container with black background and use opacity for image
+Clear floats hack.
