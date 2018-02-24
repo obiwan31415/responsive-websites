@@ -13,3 +13,9 @@ Use ul for each image line
 To have element side by side in the list use float: left;
 Darker image - put it in a container with black background and use opacity for image
 Clear floats hack.
+Format links with border, padding, color. Use link/visited hover/active.
+Color picker in Brackets: Ctrl+E
+position: absolute requires that parent has position: relative
+Put content - content property
+Use :first-child, :last-child pseudo class.
+Use :before pseudo class.
