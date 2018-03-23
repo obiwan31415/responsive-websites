@@ -21,4 +21,5 @@ Use :first-child, :last-child pseudo class.
 Use :before pseudo class.#efefef
 Use <span> to format part of text in paragraph.
 Remember that objects inherit properties, e.g. font-size 100% for child is 100% of parent's font size, not base font-size.
-
+HTML elements for forms: form, label, input, select, option, textarea.
+'for' attribute - uses id of an element
