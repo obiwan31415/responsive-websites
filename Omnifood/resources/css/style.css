@@ -262,6 +262,19 @@ header {
     border-bottom: 2px solid #e67e22;
 }
 
+/* Sticky navi */
+.mobile-nav-icon {
+    float: right;
+    margin-top: 35px;
+    cursor: pointer;
+    display: none;
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #fff;
+}
+
 /* Sticky navi */ 
 .sticky {
     position: fixed;

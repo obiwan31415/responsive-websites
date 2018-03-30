@@ -13,7 +13,9 @@ $(document).ready(function () {
         offset: '60px;'
     });
     
+    
     /* Sroll on buttons */
+    
     $('.js--scroll-to-plans').click(function () {
         $('html, body').animate({scrollTop: $('.js--section-plans').offset().top}, 1000);
     });
@@ -85,5 +87,21 @@ $(document).ready(function () {
     }, {
         offset: '50%'
     });
+    
+    
+    /* Mobile navigation */
+    $('.js--nav-icon').click(function() {
+        var nav = $('.js--main-nav');
+        var icon = $('.js--nav-icon i');
+        nav.slideToggle(200);
+        if (icon.hasClass('ion-navicon-round')) {
+            icon.addClass('ion-close-round');
+            icon.removeClass('ion-navicon-round');
+        } else {
+            icon.addClass('ion-navicon-round');
+            icon.removeClass('ion-close-round');
+        }
+    });
+    
     
 }); // $(document).ready(function ()
