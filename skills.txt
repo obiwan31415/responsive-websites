@@ -26,3 +26,5 @@ HTML elements for forms: form, label, input, select, option, textarea.
 
 jsdelivr
 https://caniuse.com/#search=transform
+
+Favicon creator: https://realfavicongenerator.net/
