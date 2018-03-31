@@ -103,5 +103,21 @@ $(document).ready(function () {
         }
     });
     
+    /* Goole maps */
+    var map = new GMaps({
+        div: '.map',
+        lat: 52.229819, 
+        lng: 21.096551,
+        zoom: 12    
+    });
+    
+    map.addMarker({
+        lat: 52.2114188,
+        lng: 21.0486076,
+        title: 'Our Warsaw HQ',
+        infoWindow: {
+            content: '<p>Our Warsaw HQ</p>'
+        }
+});
     
 }); // $(document).ready(function ()
