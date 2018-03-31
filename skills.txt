@@ -30,3 +30,10 @@ https://caniuse.com/#search=transform
 Favicon creator: https://realfavicongenerator.net/
 
 optimizilla
+
+Optimisation for SEO
+- SEO - meta description
+- HTML validation
+- Good content
+- keywords - in title, meta description, headings, links
+- backlinks
